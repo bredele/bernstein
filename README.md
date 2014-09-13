@@ -1,0 +1,4 @@
+bernstein
+=========
+
+Bernstein polynomial
