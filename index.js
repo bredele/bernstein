@@ -13,7 +13,8 @@ var binomial = require('binomial');
  * @param {Number} v (0, ..., n)
  * @param {Number} n
  * @param {Number} x ∈ [0, 1]
- * 
+ * @return {Number}
+ * @api public
  */
 
 module.exports = function(v, n, x) {

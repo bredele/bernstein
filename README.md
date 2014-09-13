@@ -3,6 +3,7 @@ bernstein
 
 Bernstein polynomial
 
+![bernstein](bernstein.png)
 
 ```js
 var bernstein = require('berstein');
@@ -12,6 +13,8 @@ bernstein(0, 0, 0)
 bernstein(1, 2, 0.5)
 // => 0.5
 ```
+
+  > if you flip a coin `n` times, the number of time you get tail follows the berstein polynomial with the parameters `n` and `x` (where v ∈ {0, ..., n}).
 
 ## License
 
