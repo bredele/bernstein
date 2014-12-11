@@ -1,0 +1,9 @@
+{
+  "name": "bernstein",
+  "version": "0.0.0",
+  "main": "index.js",
+  "description": "bernstein polynomial",
+  "dependencies": {
+  	"bredele/binomial": "*"
+  }
+}
